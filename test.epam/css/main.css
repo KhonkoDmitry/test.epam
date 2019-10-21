@@ -1,0 +1,16 @@
+.menu {
+    position: absolute;
+    padding-top: 10%;
+}
+
+body {
+    background: url('../img/layouts.gif') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.menu p{
+    font-size: x-large;
+}
